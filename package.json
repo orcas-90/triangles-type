@@ -1,0 +1,13 @@
+{
+  "name": "type-triangle",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["JS","vanila Java Script", "vanilaJS"],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/orcas-90/type-triangle.git"
+}
