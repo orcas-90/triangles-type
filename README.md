@@ -6,7 +6,7 @@
  defines types triangles
 
 ## Installation
-npm i type-triangle
+Installation command is npm i type-triangle
 
 ## License
 "ISC"
